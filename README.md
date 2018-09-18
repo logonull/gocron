@@ -1,3 +1,10 @@
+
+# 基于gocron修改为可以远程指定给定任务 然后回传到总服务器
+
+* 远程集群shell执行
+* 上传文件同步到远程服务器 然后执行
+* 执行任务回传同步到es 然后接入报警
+
 # gocron - 定时任务管理系统
 [![Build Status](https://travis-ci.org/ouqiang/gocron.png)](https://travis-ci.org/ouqiang/gocron)
 [![Downloads](https://img.shields.io/github/downloads/ouqiang/gocron/total.svg)](https://github.com/ouqiang/gocron/releases)
